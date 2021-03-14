@@ -14,8 +14,8 @@ body {
 
 @font-face {
     font-family: "mountains";
-    src: url(fonts/beyond_the_mountains.ttf);
-    src: url(fonts/beyond_the_mountains.otf);
+    src: url(beyond_the_mountains.ttf);
+    src: url(beyond_the_mountains.otf);
     font-weight: 400;
 }
 
@@ -35,7 +35,7 @@ body {
 # site-header
 ------------------------------------------------------------*/
 .home-page {
-    background: url(images/middle-cover.jpg) no-repeat;
+    background: url(middle-cover.jpg) no-repeat;
 }
 
 .site-header {
